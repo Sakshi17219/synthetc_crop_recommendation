@@ -96,7 +96,7 @@ Or use:
 
 run_project.bat
 
-for one-click execution.
+for one-click execution
 
 Project Structure
 ├── smart farming synthetic data generation.py
